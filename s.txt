@@ -1,0 +1,24 @@
+Install TypeScript globally
+npm install -g typescript
+
+3️⃣ Compile TypeScript → JavaScript
+Compile a single file
+tsc index.ts
+
+Compile and run
+tsc index.ts
+node index.js
+
+4️⃣ Initialize TypeScript Config (tsconfig.json)
+tsc --init
+
+Compile entire project
+tsc
+
+Watch mode (auto recompile)
+tsc --watch
+
+
+or
+
+tsc -w
