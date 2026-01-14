@@ -22,3 +22,10 @@ tsc --watch
 or
 
 tsc -w
+
+
+ACCESS SPECIFIER
+
+PRIVATE - only the current class
+PROTECTED - the current class and its sub classes
+PUBLIC - anywhere and everywhere
