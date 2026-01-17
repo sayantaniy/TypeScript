@@ -1,5 +1,3 @@
-import client = require("framer-motion/client");
-
 class BottleMake{
     private capacity: number;
     constructor(capacity: number){
